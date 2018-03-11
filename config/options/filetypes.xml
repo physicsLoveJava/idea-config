@@ -1,0 +1,48 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="outline" type="Markdown" />
+      <mapping pattern="java-unsafe" type="Markdown" />
+      <mapping ext="lock" type="Markdown" />
+      <mapping ext="distributed logger system" type="Markdown" />
+      <mapping ext="intro" type="Markdown" />
+      <mapping ext=" mysql table" type="Markdown" />
+      <mapping pattern="*.分治法.md" type="PLAIN_TEXT" />
+      <mapping pattern="收案接口" type="PLAIN_TEXT" />
+      <mapping pattern="entity" type="PLAIN_TEXT" />
+      <mapping pattern="PUB_NET" type="PLAIN_TEXT" />
+      <mapping pattern="just-for-test" type="PLAIN_TEXT" />
+      <mapping pattern="qscl" type="PLAIN_TEXT" />
+      <mapping pattern="tables" type="PLAIN_TEXT" />
+      <mapping pattern="接口详细信息" type="PLAIN_TEXT" />
+      <mapping pattern="相关表" type="PLAIN_TEXT" />
+      <mapping pattern="method invoke" type="PLAIN_TEXT" />
+      <mapping pattern="class design" type="PLAIN_TEXT" />
+      <mapping pattern="法综相关表" type="PLAIN_TEXT" />
+      <mapping pattern="登记立案接口信息" type="PLAIN_TEXT" />
+      <mapping pattern="登记立案对外接口说明" type="PLAIN_TEXT" />
+      <mapping pattern="CAS无锁并发" type="PLAIN_TEXT" />
+      <mapping pattern="xx" type="PLAIN_TEXT" />
+      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="DemoService" type="PLAIN_TEXT" />
+      <mapping pattern="schedule" type="PLAIN_TEXT" />
+      <mapping pattern="登记表" type="PLAIN_TEXT" />
+      <mapping pattern="outline.md" type="PLAIN_TEXT" />
+      <mapping pattern="atomic-variables-and-non-blocking-queue" type="PLAIN_TEXT" />
+      <mapping pattern="AtomicInteger" type="PLAIN_TEXT" />
+      <mapping pattern="CAS无锁并发.md" type="PLAIN_TEXT" />
+      <mapping pattern="StudentService" type="PLAIN_TEXT" />
+      <mapping pattern="todoList" type="PLAIN_TEXT" />
+      <mapping pattern="DemoService.java" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="schemas" type="PLAIN_TEXT" />
+      <mapping ext="oneben" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="分治法" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext=" gc-mark-sweep" type="PLAIN_TEXT" />
+      <mapping ext="handles" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

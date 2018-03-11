@@ -1,0 +1,1202 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/codes/java/idea/records" />
+        <option value="E:/codes/java/idea/basic-techs" />
+        <option value="E:/frameworks/java/TProfiler" />
+        <option value="E:/codes/java/idea/university-recommendation" />
+        <option value="$USER_HOME$/Desktop/bgbapt2" />
+        <option value="E:/codes/java/idea-tify/auth" />
+        <option value="E:/codes/java/idea-tify/log-analysis" />
+        <option value="E:/frameworks/java/apache-commons" />
+        <option value="E:/frameworks/java/open-jdk/openjdk" />
+        <option value="E:/codes/frameworks/java/jedis" />
+        <option value="E:/codes/java/idea-tify/tjspxt--my" />
+        <option value="E:/codes/java/idea-tify/copy" />
+        <option value="E:/codes/source code from github/cachecloud" />
+        <option value="E:/codes/java/idea-tify/log-centralized" />
+        <option value="$USER_HOME$/Desktop/bgbapt2-8081" />
+        <option value="E:/codes/frameworks/java/dubbo" />
+        <option value="E:/codes/frameworks/java/slf4j" />
+        <option value="$USER_HOME$/Desktop/bgbapt" />
+        <option value="E:/frameworks/java/java-sources" />
+        <option value="E:/codes/source code from github/spring-framework" />
+        <option value="E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-client" />
+        <option value="E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-server" />
+        <option value="$USER_HOME$/Desktop/ExtInterface_branch" />
+        <option value="E:/codes/source code from github/stagemonitor" />
+        <option value="E:/codes/java/micro/SpringCloudLearning" />
+        <option value="E:/codes/java/idea-tify/sleuth" />
+        <option value="E:/codes/java/micro/services" />
+        <option value="E:/codes/java/idea/monitorx-parent" />
+        <option value="E:/frameworks/java/metrics" />
+        <option value="$USER_HOME$/Desktop/oo-0.2.0-beta.1/djla" />
+        <option value="$USER_HOME$/Desktop/oo-0.2.0-beta.1/djla-qianyi" />
+        <option value="$USER_HOME$/Desktop/print-main/print-main" />
+        <option value="E:/codes/java/idea-tify/print-main-for-demonstration" />
+        <option value="E:/codes/java/idea/monitorx" />
+        <option value="E:/frameworks/java/zheng" />
+        <option value="$USER_HOME$/Desktop/mybatis-generator-gui-0.8.4/mybatis-generator-gui-0.8.4" />
+        <option value="E:/codes/java/STS-tjfy/sjjhpt" />
+        <option value="E:/codes/java/idea-tify/bytecode-transformer" />
+        <option value="E:/codes/java/idea-tify/serverConnector" />
+        <option value="E:/codes/java/idea/java-ssh-simulator" />
+        <option value="E:/frameworks/java/t-io" />
+        <option value="E:/codes/java/micro/university-recommend" />
+        <option value="E:/codes/java/idea-tify/copy-for-test" />
+        <option value="E:/codes/frameworks/java/logging-log4j2" />
+        <option value="E:/codes/java/idea-tify/services" />
+        <option value="E:/codes/code-print/ysxm/print-main-for-demonstration" />
+        <option value="E:/codes/java/idea-tify/automationOpenFy" />
+        <option value="E:/codes/java/idea/codeinterview" />
+        <option value="E:/codes/source code from github/publish-over-ssh-plugin" />
+        <option value="E:/codes/java/idea/javasshsimulator" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/codes/java/idea/basic-techs" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/codes/java/idea/records" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/Ems">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1503970206536" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ExtInterface_branch">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511516585798" />
+              <option name="buildTimestamp" value="1503351242642" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/bgbapt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515377237640" />
+              <option name="buildTimestamp" value="1503351250141" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/bgbapt2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520397130712" />
+              <option name="buildTimestamp" value="1503351263370" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/bgbapt2-8081">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516757827883" />
+              <option name="buildTimestamp" value="1503351298233" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/docinterface/docinterface">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1497456371430" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/docprovider/docprovider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1499590545191" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/dsjyypt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504257060030" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/emsdyxt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504074738195" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/gs-messaging-stomp-websocket-master/gs-messaging-stomp-websocket-master/complete">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1495032869200" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/mybatis-generator-gui-0.8.4/mybatis-generator-gui-0.8.4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508572727996" />
+              <option name="buildTimestamp" value="1503351264031" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/djla">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509784960960" />
+              <option name="buildTimestamp" value="1503351271700" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/djla-qianyi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509324099948" />
+              <option name="buildTimestamp" value="1503351240680" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/dsjyypt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504258247546" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/dsjyypt/dsjyypt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504268024923" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/glaj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504247679358" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/glaj2017">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504250093144" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/wszz">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508752320210" />
+              <option name="buildTimestamp" value="1503351253547" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/wszz/docinterface">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508752782620" />
+              <option name="buildTimestamp" value="1503351253547" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/oo-0.2.0-beta.1/wszz/docprovider">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509002443914" />
+              <option name="buildTimestamp" value="1503351280122" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/print-main/print-main">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509094689562" />
+              <option name="buildTimestamp" value="1503351256111" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/signatureAPI/signatureAPI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1496976271321" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/批量签章/iSignaturepdf">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1497340531076" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/code-print/ysxm/print-main-for-demonstration">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505718423819" />
+              <option name="buildTimestamp" value="1503351295373" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/frameworks/java/dubbo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516602672449" />
+              <option name="buildTimestamp" value="1503351256831" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/frameworks/java/jedis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518492333185" />
+              <option name="buildTimestamp" value="1503351262262" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/frameworks/java/log4j">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504053484148" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/frameworks/java/logback">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504053182431" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/frameworks/java/logging-log4j2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505976082149" />
+              <option name="buildTimestamp" value="1503351259739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/frameworks/java/slf4j">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516063697329" />
+              <option name="buildTimestamp" value="1503351293907" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/STS-tjfy/sjjhpt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508418573446" />
+              <option name="buildTimestamp" value="1503351292453" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/STS-tjfy/法意接口完整版">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1502782056343" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/STS/print-monitor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1502865645286" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1496590514520" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-fp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1480085246172" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-fp/sicp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1483962203455" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-self">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1470721423025" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/SvnDeployTool">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1500795229404" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/auth">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519056520780" />
+              <option name="buildTimestamp" value="1503351275621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/automationOpenFy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505437305754" />
+              <option name="buildTimestamp" value="1503351287557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/bgbapt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1501727103083" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/bytecode-transformer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508377437500" />
+              <option name="buildTimestamp" value="1503351276091" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/copy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517317281906" />
+              <option name="buildTimestamp" value="1503351261633" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/copy-for-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506498249044" />
+              <option name="buildTimestamp" value="1503351292037" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/log-analysis">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1519056401666" />
+              <option name="buildTimestamp" value="1503351275621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/log-centralized">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516799733185" />
+              <option name="buildTimestamp" value="1503351268467" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/print-main">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1500360731761" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/print-main-for-demonstration">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509087453954" />
+              <option name="buildTimestamp" value="1503351256111" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/print-system">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1499497458266" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/serverConnector">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508251000019" />
+              <option name="buildTimestamp" value="1503351292315" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/services">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505974720382" />
+              <option name="buildTimestamp" value="1503351259739" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/sleuth">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510888785780" />
+              <option name="buildTimestamp" value="1503351296961" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/tjspxt">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1502670699245" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea-tify/tjspxt--my">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1517488269808" />
+              <option name="buildTimestamp" value="1503351299987" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/algorithm4">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1489109208437" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/algorithmbook">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1489071323083" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/basic-techs">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520777831251" />
+              <option name="buildTimestamp" value="1503351240002" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513166155498" />
+              <option name="buildTimestamp" value="1503351282214" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1513166048672" />
+              <option name="buildTimestamp" value="1503351282214" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/cj-spk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1493709498384" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/client-proxy">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1504226368851" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/codeinterview">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1505141172560" />
+              <option name="buildTimestamp" value="1503351295192" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/codelee">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1493474177878" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/concurrency">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1483529205816" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/desigin-pattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1483449928684" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/design-pattern">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1503454044594" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/douban">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1503236514817" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/dynamic">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1472390276890" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/flashcards">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1495525881483" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/hadoop-x">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1479821559229" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/java-ssh-simulator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508242875103" />
+              <option name="buildTimestamp" value="1503351292315" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/javasshsimulator">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504575909076" />
+              <option name="buildTimestamp" value="1503351270388" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/monitorx">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508804795140" />
+              <option name="buildTimestamp" value="1503351267071" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/monitorx-parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510239493036" />
+              <option name="buildTimestamp" value="1503351259584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/print-monitor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1481943784037" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/projects">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1470481896287" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/records">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520777861221" />
+              <option name="buildTimestamp" value="1503351240002" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/source-code">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1471270181267" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/spring-i">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1503405788672" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/ssh-cd">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1496590615828" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/ssh-cd/client">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1496592992892" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/ssh-cd/server">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1496806970637" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/twitter">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1498741429197" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/idea/university-recommendation">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520427321134" />
+              <option name="buildTimestamp" value="1503351253100" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/micro/SpringCloudLearning">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510991591774" />
+              <option name="buildTimestamp" value="1503351296996" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/micro/services">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510888355137" />
+              <option name="buildTimestamp" value="1503351296961" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/java/micro/university-recommend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508143198480" />
+              <option name="buildTimestamp" value="1503351278860" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/source code from github/cachecloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1516868109606" />
+              <option name="buildTimestamp" value="1503351258859" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/source code from github/jmxtrans-agent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1502182016041" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/source code from github/publish-over-ssh-plugin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1504752292598" />
+              <option name="buildTimestamp" value="1503351263774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/source code from github/spring-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514610047407" />
+              <option name="buildTimestamp" value="1503351273377" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/source code from github/spring-framework/spring-beans">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.2070" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1503406714637" />
+              <option name="buildTimestamp" value="1470067200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/codes/source code from github/stagemonitor">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511225021525" />
+              <option name="buildTimestamp" value="1503351259588" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/TProfiler">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520648818164" />
+              <option name="buildTimestamp" value="1503351280750" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/apache-commons">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518615496836" />
+              <option name="buildTimestamp" value="1503351246439" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/jBPM5-Developer-Guide">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1483516855223" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/java-sources">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1514768095284" />
+              <option name="buildTimestamp" value="1503351270017" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/jbpm-sim">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1483930419788" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/metrics">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1510209955895" />
+              <option name="buildTimestamp" value="1503351289089" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/mybatis-3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-145.1617" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.1.3/bin" />
+              <option name="projectOpenTimestamp" value="1493204665395" />
+              <option name="buildTimestamp" value="1464883200000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/open-jdk/openjdk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518510402077" />
+              <option name="buildTimestamp" value="1503351262262" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/t-io">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508237848073" />
+              <option name="buildTimestamp" value="1503351292315" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/frameworks/java/zheng">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.3968.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508577071887" />
+              <option name="buildTimestamp" value="1503351264031" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="E:/codes/frameworks/java" />
+  </component>
+</application>

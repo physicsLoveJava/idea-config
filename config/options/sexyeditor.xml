@@ -1,0 +1,14 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.uml" />
+          <option name="fileNames">
+            <array />
+          </option>
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,56 @@
+
+{
+          type: 'line',
+          markLine: {
+            silent: true,
+            data: [
+              {
+                yAxis: 50
+              },
+              {
+                yAxis: 100
+              },
+              {
+                yAxis: 150
+              },
+              {
+                yAxis: 200
+              },
+              {
+                yAxis: 300
+              }
+            ]
+          },
+          data: [
+            {
+              data: this.getData(university, years, "gfMap"),
+              type: "line",
+              smooth: true,
+              name: "高分"
+            },
+            {
+              data: this.getData(university, years, "zfMap"),
+              type: "line",
+              smooth: true,
+              name: "中分"
+            },
+            {
+              data: this.getData(university, years, "dfMap"),
+              type: "line",
+              smooth: true,
+              name: "低分"
+            },
+            {
+              data: this.getData(university, years, "cfMap"),
+              type: "line",
+              smooth: true,
+              name: "差分"
+            },
+            {
+              data: university.gfpj,
+              type: "line",
+              smooth: true,
+              name: "高分平均分"
+            }
+          ]
+        }

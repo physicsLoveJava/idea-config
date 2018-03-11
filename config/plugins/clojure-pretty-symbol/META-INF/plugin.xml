@@ -1,0 +1,87 @@
+<idea-plugin version="2">
+  <version>1.6.9</version>
+  <id>zjhmale.clojure-pretty-symbol</id>
+  <name>Clojure Pretty Symbol</name>
+  <vendor email="zjhmale@gmail.com" url="https://github.com/zjhmale">zjhmale</vendor>
+  <description>
+      Pretty symbols for your Clojure development with IntelliJ IDEA-based IDEs
+    </description>
+  <change-notes>
+      &lt;p&gt;1.6.9:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Add non macro symbol constraints&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.6.6:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Add more LT GT constraints&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.6.3:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Apply toggle action to all open files and garantee the order of tabs&lt;/li&gt;
+        &lt;li&gt;Make show up pretty symbols in comment configurable&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.6:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Refresh current file after applied settings&lt;/li&gt;
+        &lt;li&gt;Add action to toggle conceal globally&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.5.3:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Support turn on / off pretty symbols globally&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.5.1:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Fix comp symbol not showing up bug&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.5:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Fix not-xxx symbols bug&lt;/li&gt;
+        &lt;li&gt;Make show up pretty symbols in string literal configurable&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.4:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Add let letfn pretty symbols&lt;/li&gt;
+        &lt;li&gt;Add doseq comp pretty symbols&lt;/li&gt;
+        &lt;li&gt;Add and or not pretty symbols&lt;/li&gt;
+        &lt;li&gt;Fix fn partial and set operators indent issue&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.3.1:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Remove folding group to omit annoying expand button&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.3:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Fix def symbol settings bug&lt;/li&gt;
+        &lt;li&gt;Support &gt;= &lt;= pretty symbols&lt;/li&gt;
+        &lt;li&gt;Add / left stop flag for set operators&lt;/li&gt;
+        &lt;li&gt;Update def folding strategy&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.2:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Pretty symbols for #{} union difference intersection&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.1:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Fix def multiline issue&lt;/li&gt;
+        &lt;li&gt;Update def pretty symbol&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;p&gt;1.0:&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Pretty symbols for def defn fn #() not= partial #{...} -&gt; -&gt;&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    
+  </change-notes>
+  <idea-version since-build="131"/>
+  <extensions defaultExtensionNs="com.intellij">
+    <lang.foldingBuilder language="Clojure" implementationClass="zjhmale.cps.CPSFoldingBuilder"/>
+    <applicationConfigurable implementation="zjhmale.cps.setting.CPSConfigurable"/>
+    <applicationService serviceInterface="zjhmale.cps.setting.CPSSettings" serviceImplementation="zjhmale.cps.setting.CPSSettings"/>
+  </extensions>
+  <application-components/>
+  <project-components/>
+  <actions>
+    <action class="zjhmale.cps.actions.GlobalToggleConcealAction" id="CPS.actions.GlobalToggleConceal" text="Toggle Clojure Pretty Symbol" description="Toggle Clojure Pretty Symbol Globally">
+      <add-to-group group-id="EditMenu" anchor="last"/>
+    </action>
+  </actions>
+</idea-plugin>

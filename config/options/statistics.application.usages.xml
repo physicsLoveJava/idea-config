@@ -1,0 +1,672 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="serverConnector" values="ECMAScript 5.1" collectionTime="1504255992756" />
+      <project id="log4j" values="ECMAScript 5.1" collectionTime="1504055860662" />
+      <project id="spring" values="ECMAScript 5.1" collectionTime="1503579678617" />
+      <project id="bytecode-transformer" values="ECMAScript 5.1" collectionTime="1502761688107" />
+      <project id="logback-parent" values="ECMAScript 5.1" collectionTime="1504054407744" />
+      <project id="gs-messaging-stomp-websocket" values="ECMAScript 5.1" collectionTime="1495033119868" />
+      <project id="hadoop-x" values="ECMAScript 5.1" collectionTime="1479821828690" />
+      <project id="codelee" values="ECMAScript 5.1" collectionTime="1493474265831" />
+      <project id="basic-techs" values="ECMAScript 5.1" collectionTime="1504494774315" />
+      <project id="algorithmbook" values="ECMAScript 5.1" collectionTime="1489071507965" />
+      <project id="iSignaturepdf" values="ECMAScript 5.1" collectionTime="1497340550063" />
+      <project id="slf4j" values="ECMAScript 5.1" collectionTime="1504246625674" />
+      <project id="print-monitor" values="ECMAScript 5.1" collectionTime="1502872040520" />
+      <project id="demoMaven" values="ECMAScript 5.1" collectionTime="1470481912818" />
+      <project id="client-proxy" values="ECMAScript 5.1" collectionTime="1504246626945" />
+      <project id="twitter" values="ECMAScript 5.1" collectionTime="1498741504674" />
+      <project id="docinterface" values="ECMAScript 5.1" collectionTime="1497457482299" />
+      <project id="dynamic" values="ECMAScript 5.1" collectionTime="1472390524713" />
+      <project id="glaj" values="ECMAScript 5.1" collectionTime="1504257060028" />
+      <project id="algorithm4" values="ECMAScript 5.1" collectionTime="1489109355515" />
+      <project id="flashcards" values="ECMAScript 5.1" collectionTime="1495525972240" />
+      <project id="print-system" values="ECMAScript 5.1" collectionTime="1499497504374" />
+      <project id="spring-beans" values="ECMAScript 5.1" collectionTime="1503406726004" />
+      <project id="SvnDeployTool" values="ECMAScript 5.1" collectionTime="1500796765830" />
+      <project id="java-sources" values="ECMAScript 5.1" collectionTime="1503991366712" />
+      <project id="cj-spk" values="ECMAScript 5.1" collectionTime="1493710967793" />
+      <project id="stagemonitor" values="ECMAScript 5.1" collectionTime="1501684719754" />
+      <project id="dsjyypt" values="ECMAScript 5.1" collectionTime="1504268071547" />
+      <project id="tjspxt" values="ECMAScript 5.1" collectionTime="1504264994662" />
+      <project id="source-code" values="ECMAScript 5.1" collectionTime="1471270356499" />
+      <project id="signatureAPI" values="ECMAScript 5.1" collectionTime="1496976474584" />
+      <project id="codeinterview" values="ECMAScript 5.1" collectionTime="1504494779401" />
+      <project id="bgbapt" values="ECMAScript 5.1" collectionTime="1501728938351" />
+      <project id="emsdyxt" values="ECMAScript 5.1" collectionTime="1504082041073" />
+      <project id="ssh-cd-client" values="ECMAScript 5.1" collectionTime="1496596443070" />
+      <project id="jbpm5-developer-guide" values="ECMAScript 5.1" collectionTime="1483513738587" />
+      <project id="spring-i" values="ECMAScript 5.1" collectionTime="1503405913084" />
+      <project id="jBPM5-Developer-Guide" values="ECMAScript 5.1" collectionTime="1483529111861" />
+      <project id="mybatis" values="ECMAScript 5.1" collectionTime="1493205166345" />
+      <project id="douban" values="ECMAScript 5.1" collectionTime="1503236562689" />
+      <project id="concurrency" values="ECMAScript 5.1" collectionTime="1483529230859" />
+      <project id="sicp" values="ECMAScript 5.1" collectionTime="1483962234984" />
+      <project id="djla" values="ECMAScript 5.1" collectionTime="1504493021147" />
+      <project id="demo-spring" values="ECMAScript 5.1" collectionTime="1470721460421" />
+      <project id="ssh-cd" values="ECMAScript 5.1" collectionTime="1496592978603" />
+      <project id="ssh-cd-server" values="ECMAScript 5.1" collectionTime="1496806997949" />
+      <project id="jbpm-sim" values="ECMAScript 5.1" collectionTime="1483930446132" />
+      <project id="design-pattern" values="ECMAScript 5.1" collectionTime="1503473017799" />
+      <project id="copy" values="ECMAScript 5.1" collectionTime="1503042458526" />
+      <project id="print" values="ECMAScript 5.1" collectionTime="1504487937984" />
+      <project id="dubbo-parent" values="ECMAScript 5.1" collectionTime="1504449175798" />
+      <project id="jmxtrans-agent" values="ECMAScript 5.1" collectionTime="1502182158931" />
+      <project id="InterfaceService" values="ECMAScript 5.1" collectionTime="1502784252517" />
+      <project id="docprovider" values="ECMAScript 5.1" collectionTime="1499590838922" />
+    </group>
+    <group name="module type">
+      <project id="serverConnector" values="JAVA_MODULE" collectionTime="1504255992679" />
+      <project id="log4j" values="JAVA_MODULE" collectionTime="1504055860576" />
+      <project id="spring" values="JAVA_MODULE" collectionTime="1503579678486" />
+      <project id="bytecode-transformer" values="JAVA_MODULE" collectionTime="1502761688078" />
+      <project id="logback-parent" values="JAVA_MODULE" collectionTime="1504054407637" />
+      <project id="gs-messaging-stomp-websocket" values="JAVA_MODULE" collectionTime="1495033119821" />
+      <project id="hadoop-x" values="JAVA_MODULE" collectionTime="1479821828364" />
+      <project id="codelee" values="JAVA_MODULE" collectionTime="1493474265455" />
+      <project id="basic-techs" values="JAVA_MODULE" collectionTime="1504494774257" />
+      <project id="algorithmbook" values="JAVA_MODULE" collectionTime="1489071507923" />
+      <project id="iSignaturepdf" values="JAVA_MODULE" collectionTime="1497340549745" />
+      <project id="slf4j" values="JAVA_MODULE" collectionTime="1504246625628" />
+      <project id="print-monitor" values="JAVA_MODULE" collectionTime="1502872040460" />
+      <project id="demoMaven" values="JAVA_MODULE" collectionTime="1470481912794" />
+      <project id="client-proxy" values="JAVA_MODULE" collectionTime="1504246626905" />
+      <project id="twitter" values="JAVA_MODULE" collectionTime="1498741504626" />
+      <project id="docinterface" values="JAVA_MODULE" collectionTime="1497457481999" />
+      <project id="dynamic" values="JAVA_MODULE" collectionTime="1472390524393" />
+      <project id="glaj" values="JAVA_MODULE" collectionTime="1504257059952" />
+      <project id="algorithm4" values="JAVA_MODULE" collectionTime="1489109355246" />
+      <project id="flashcards" values="JAVA_MODULE" collectionTime="1495525971912" />
+      <project id="print-system" values="JAVA_MODULE" collectionTime="1499497504319" />
+      <project id="spring-beans" values="JAVA_MODULE" collectionTime="1503406725968" />
+      <project id="SvnDeployTool" values="JAVA_MODULE" collectionTime="1500796765764" />
+      <project id="java-sources" values="JAVA_MODULE" collectionTime="1503991366665" />
+      <project id="cj-spk" values="JAVA_MODULE" collectionTime="1493710967766" />
+      <project id="stagemonitor" values="JAVA_MODULE" collectionTime="1501684719650" />
+      <project id="dsjyypt" values="JAVA_MODULE" collectionTime="1504268071164" />
+      <project id="tjspxt" values="JAVA_MODULE" collectionTime="1504264994588" />
+      <project id="source-code" values="JAVA_MODULE" collectionTime="1471270356237" />
+      <project id="signatureAPI" values="JAVA_MODULE" collectionTime="1496976474560" />
+      <project id="codeinterview" values="JAVA_MODULE" collectionTime="1504494779346" />
+      <project id="bgbapt" values="JAVA_MODULE" collectionTime="1501728938283" />
+      <project id="emsdyxt" values="JAVA_MODULE" collectionTime="1504082040993" />
+      <project id="ssh-cd-client" values="JAVA_MODULE" collectionTime="1496596443044" />
+      <project id="spring-i" values="JAVA_MODULE" collectionTime="1503405913021" />
+      <project id="jBPM5-Developer-Guide" values="JAVA_MODULE" collectionTime="1483529111591" />
+      <project id="mybatis" values="JAVA_MODULE" collectionTime="1493205166286" />
+      <project id="douban" values="JAVA_MODULE" collectionTime="1503236562356" />
+      <project id="concurrency" values="JAVA_MODULE" collectionTime="1483529230810" />
+      <project id="sicp" values="JAVA_MODULE" collectionTime="1483962234950" />
+      <project id="djla" values="JAVA_MODULE" collectionTime="1504493021063" />
+      <project id="demo-spring" values="JAVA_MODULE" collectionTime="1470721460171" />
+      <project id="ssh-cd" values="JAVA_MODULE" collectionTime="1496592978576" />
+      <project id="ssh-cd-server" values="JAVA_MODULE" collectionTime="1496806997671" />
+      <project id="jbpm-sim" values="JAVA_MODULE" collectionTime="1483930445878" />
+      <project id="design-pattern" values="JAVA_MODULE" collectionTime="1503473017739" />
+      <project id="copy" values="JAVA_MODULE" collectionTime="1503042458486" />
+      <project id="print" values="JAVA_MODULE" collectionTime="1504487937879" />
+      <project id="dubbo-parent" values="JAVA_MODULE" collectionTime="1504449175698" />
+      <project id="jmxtrans-agent" values="JAVA_MODULE" collectionTime="1502182158888" />
+      <project id="InterfaceService" values="JAVA_MODULE" collectionTime="1502784252460" />
+      <project id="docprovider" values="JAVA_MODULE" collectionTime="1499590838846" />
+    </group>
+    <group name="vcs">
+      <project id="stagemonitor" values="Git" collectionTime="1501684719650" />
+      <project id="log4j" values="Git" collectionTime="1504055860576" />
+      <project id="mybatis" values="Git" collectionTime="1493205166286" />
+      <project id="print" values="Git" collectionTime="1504487937879" />
+      <project id="slf4j" values="Git" collectionTime="1504246625628" />
+      <project id="dubbo-parent" values="Git" collectionTime="1504449175698" />
+      <project id="print-system" values="Git" collectionTime="1499497504319" />
+      <project id="jBPM5-Developer-Guide" values="Git" collectionTime="1483529111590" />
+      <project id="jmxtrans-agent" values="Git" collectionTime="1502182158888" />
+      <project id="print-monitor" values="Git" collectionTime="1502872040460" />
+      <project id="flashcards" values="Git" collectionTime="1495525971911" />
+      <project id="spring" values="Git" collectionTime="1503579678486" />
+      <project id="logback-parent" values="Git" collectionTime="1504054407637" />
+    </group>
+    <group name="Spring Boot">
+      <project id="stagemonitor" values="RunConfigsPerProject_0" collectionTime="1501684719763" />
+      <project id="codeinterview" values="application.properties,RunConfigsPerProject_1" collectionTime="1504494779406" />
+      <project id="gs-messaging-stomp-websocket" values="RunConfigsPerProject_1,application.properties" collectionTime="1495033119869" />
+      <project id="serverConnector" values="application.properties,RunConfigsPerProject_1" collectionTime="1504255992763" />
+      <project id="print" values="application.properties,RunConfigsPerProject_1" collectionTime="1504487937987" />
+      <project id="twitter" values="RunConfigsPerProject_1,application.properties" collectionTime="1498741504681" />
+      <project id="douban" values="application.properties,RunConfigsPerProject_1" collectionTime="1503236562728" />
+      <project id="print-monitor" values="RunConfigsPerProject_1,application.properties" collectionTime="1502872040523" />
+      <project id="flashcards" values="RunConfigsPerProject_1,application.properties" collectionTime="1495525972273" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="print" values="SpringBootApplicationConfigurationType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1504487937879" />
+      <project id="print-monitor" values="SpringBootApplicationConfigurationType" collectionTime="1502872040460" />
+      <project id="print-system" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,MavenRunConfiguration" collectionTime="1499497504319" />
+      <project id="dsjyypt" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1504268071164" />
+      <project id="tjspxt" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1504264994588" />
+      <project id="codeinterview" values="SpringBootApplicationConfigurationType" collectionTime="1504494779346" />
+      <project id="bgbapt" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1501728938284" />
+      <project id="twitter" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local,SpringBootApplicationConfigurationType" collectionTime="1498741504626" />
+      <project id="emsdyxt" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1504082040993" />
+      <project id="douban" values="SpringBootApplicationConfigurationType" collectionTime="1503236562356" />
+      <project id="serverConnector" values="SpringBootApplicationConfigurationType" collectionTime="1504255992679" />
+      <project id="gs-messaging-stomp-websocket" values="SpringBootApplicationConfigurationType" collectionTime="1495033119821" />
+      <project id="spring-i" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1503405913021" />
+      <project id="flashcards" values="SpringBootApplicationConfigurationType,#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1495525971912" />
+    </group>
+    <group name="Scala">
+      <project id="log4j" values="Library  ScalaTest,Library  JUnit for Scala,Scala  2.11.8" collectionTime="1504055860670" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="serverConnector" values="JUnit" collectionTime="1504255992679" />
+      <project id="java-sources" values="JUnit,Application" collectionTime="1503991366665" />
+      <project id="InterfaceService" values="Application" collectionTime="1502784252460" />
+      <project id="basic-techs" values="Application" collectionTime="1504494774257" />
+      <project id="iSignaturepdf" values="Application" collectionTime="1497340549746" />
+      <project id="codelee" values="Application,JUnit" collectionTime="1493474265456" />
+      <project id="tjspxt" values="Application,JUnit" collectionTime="1504264994588" />
+      <project id="copy" values="Application" collectionTime="1503042458486" />
+      <project id="demoMaven" values="JUnit" collectionTime="1470481912794" />
+      <project id="twitter" values="JUnit" collectionTime="1498741504626" />
+      <project id="dynamic" values="JUnit" collectionTime="1472390524393" />
+      <project id="algorithm4" values="JUnit,Application" collectionTime="1489109355246" />
+      <project id="flashcards" values="JUnit" collectionTime="1495525971912" />
+      <project id="print-system" values="JUnit,Application" collectionTime="1499497504319" />
+      <project id="cj-spk" values="Application" collectionTime="1493710967766" />
+      <project id="SvnDeployTool" values="Application" collectionTime="1500796765764" />
+      <project id="slf4j" values="JUnit" collectionTime="1504246625628" />
+      <project id="client-proxy" values="Application,JUnit" collectionTime="1504246626905" />
+      <project id="dsjyypt" values="Application" collectionTime="1504268071164" />
+      <project id="concurrency" values="Application" collectionTime="1483529230810" />
+      <project id="source-code" values="GroovyScriptRunConfiguration" collectionTime="1471270356237" />
+      <project id="codeinterview" values="Application" collectionTime="1504494779346" />
+      <project id="jBPM5-Developer-Guide" values="JUnit" collectionTime="1483529111592" />
+      <project id="stagemonitor" values="GradleRunConfiguration,GroovyScriptRunConfiguration" collectionTime="1501684719650" />
+      <project id="douban" values="JUnit,Application" collectionTime="1503236562356" />
+      <project id="ssh-cd-client" values="Application" collectionTime="1496596443044" />
+      <project id="sicp" values="ClojureScriptRunConfiguration" collectionTime="1483962234950" />
+      <project id="djla" values="JUnit" collectionTime="1504493021063" />
+      <project id="demo-spring" values="Application,TestNG" collectionTime="1470721460171" />
+      <project id="ssh-cd" values="Application" collectionTime="1496592978576" />
+      <project id="ssh-cd-server" values="Application" collectionTime="1496806997672" />
+      <project id="design-pattern" values="Application" collectionTime="1503473017739" />
+      <project id="print" values="Application,JUnit" collectionTime="1504487937879" />
+      <project id="docprovider" values="Application,JUnit" collectionTime="1499590838846" />
+    </group>
+    <group name="file-type">
+      <project id="serverConnector" values="UNKNOWN,ARCHIVE,JavaScript,SourceMap,IDEA_MODULE,CSS,Properties,PLAIN_TEXT,XML,Markdown,JAVA,Git file,FTL" collectionTime="1504255992754" />
+      <project id="log4j" values="Markdown,SPI,UNKNOWN,CSS,Git file,DTD,ARCHIVE,VTL,HOCON,Properties,Images,IDEA_MODULE,XML,JavaScript,Docker file,YAML,JAVA,JSON,PLAIN_TEXT,JSP,CLASS,Native,Scala,Groovy,HTML" collectionTime="1504055860636" />
+      <project id="spring" values="PLAIN_TEXT,CLASS,Native,spring.factories,JSP,DTD,JAVA,Images,UNKNOWN,XML,JSON,JavaScript,SQL,HTML,VTL,Markdown,FTL,CSS,Git file,ARCHIVE,IDEA_MODULE,Properties,Groovy,SPI,AspectJ,Eclipse" collectionTime="1503579678529" />
+      <project id="bytecode-transformer" values="Manifest,JAVA,XML,IDEA_MODULE" collectionTime="1502761688107" />
+      <project id="logback-parent" values="UML,Markdown,Scala,XML,Perl,SPI,PLAIN_TEXT,JavaScript,CSS,UNKNOWN,JAVA,HTML,IDEA_MODULE,Git file,YAML,Native,Manifest,ARCHIVE,Properties,SQL,Groovy,Images,DTD" collectionTime="1504054407703" />
+      <project id="gs-messaging-stomp-websocket" values="XML,IDEA_MODULE,Git file,Groovy,JavaScript,CSS,JAVA,ARCHIVE,PLAIN_TEXT,HTML,Properties" collectionTime="1495033119860" />
+      <project id="hadoop-x" values="Manifest,IDEA_MODULE,JAVA,XML" collectionTime="1479821828462" />
+      <project id="codelee" values="JAVA,XML,IDEA_MODULE" collectionTime="1493474265575" />
+      <project id="basic-techs" values="IDEA_MODULE,JAVA,XML" collectionTime="1504494774314" />
+      <project id="algorithmbook" values="IDEA_MODULE" collectionTime="1489071507964" />
+      <project id="iSignaturepdf" values="UNKNOWN,IDEA_MODULE,JSP,XML,ARCHIVE,JAVA,PLAIN_TEXT,Eclipse,CLASS,Native,Manifest" collectionTime="1497340549831" />
+      <project id="slf4j" values="JAVA,PLAIN_TEXT,SPI,UNKNOWN,Properties,Manifest,Native,ARCHIVE,HTML,Git file,FTL,IDEA_MODULE,Markdown,XML,Images,YAML,CSS,JavaScript" collectionTime="1504246625657" />
+      <project id="print-monitor" values="ARCHIVE,Properties,Eclipse,IDEA_MODULE,PLAIN_TEXT,XML,Git file,JAVA" collectionTime="1502872040518" />
+      <project id="demoMaven" values="JAVA,IDEA_MODULE,XML" collectionTime="1470481912816" />
+      <project id="client-proxy" values="Manifest,IDEA_MODULE,JAVA,XML,PLAIN_TEXT,Properties" collectionTime="1504246626944" />
+      <project id="twitter" values="Git file,Properties,ARCHIVE,IDEA_MODULE,JAVA,XML,PLAIN_TEXT" collectionTime="1498741504662" />
+      <project id="docinterface" values="PLAIN_TEXT,Eclipse,XML,JAVA,IDEA_MODULE" collectionTime="1497457482071" />
+      <project id="dynamic" values="JAVA,IDEA_MODULE,XML" collectionTime="1472390524512" />
+      <project id="glaj" values="XML,IDEA_MODULE,CSS,JAVA,Images,Properties,JavaScript,JSP" collectionTime="1504257060027" />
+      <project id="algorithm4" values="XML,JAVA,IDEA_MODULE" collectionTime="1489109355317" />
+      <project id="flashcards" values="IDEA_MODULE,XML,PLAIN_TEXT,Properties,Git file,ARCHIVE,JAVA" collectionTime="1495525972014" />
+      <project id="print-system" values="JSP,JAVA,XML,Manifest,ARCHIVE,Git file,Properties,IDEA_MODULE,SQL,Images,CSS,PLAIN_TEXT,JavaScript" collectionTime="1499497504367" />
+      <project id="spring-beans" values="HTML,Eclipse,DTD,PLAIN_TEXT,IDEA_MODULE,CLASS,JAVA,Images,Manifest,ARCHIVE,spring.factories,Properties,XML" collectionTime="1503406726003" />
+      <project id="SvnDeployTool" values="XML,JSP,Properties,IDEA_MODULE,PLAIN_TEXT,JAVA" collectionTime="1500796765829" />
+      <project id="java-sources" values="PLAIN_TEXT,JAVA,XML,IDEA_MODULE" collectionTime="1503991366710" />
+      <project id="cj-spk" values="ARCHIVE,IDEA_MODULE,PLAIN_TEXT,XML,JAVA" collectionTime="1493710967790" />
+      <project id="stagemonitor" values="JavaScript,ARCHIVE,PLAIN_TEXT,Images,JSON,Properties,XML,SPI,YAML,UNKNOWN,Markdown,Git file,CSS,JAVA,Groovy,HTML" collectionTime="1501684719724" />
+      <project id="dsjyypt" values="JavaScript,UNKNOWN,Manifest,JAVA,CSS,SWF,FTL,PLAIN_TEXT,JSP,CLASS,Images,Native,XML,Properties,IDEA_MODULE" collectionTime="1504268071331" />
+      <project id="tjspxt" values="JAVA,Native,SPI,JSP,XML,FTL,IDEA_MODULE,Manifest,CLASS,CSS,PLAIN_TEXT,Properties,HTML,UNKNOWN,Images,JavaScript,ARCHIVE,SWF" collectionTime="1504264994661" />
+      <project id="source-code" values="PLAIN_TEXT,Properties,ARCHIVE,Groovy" collectionTime="1471270356323" />
+      <project id="signatureAPI" values="PLAIN_TEXT,XML,JAVA,ARCHIVE,IDEA_MODULE,Eclipse,Manifest" collectionTime="1496976474580" />
+      <project id="codeinterview" values="JAVA,IDEA_MODULE,Properties,Git file,PLAIN_TEXT,ARCHIVE,XML" collectionTime="1504494779400" />
+      <project id="bgbapt" values="JSP,CSS,JavaScript,SQL,Properties,UNKNOWN,Markdown,PLAIN_TEXT,ARCHIVE,JSON,IDEA_MODULE,SCSS,HTML,Git file,JAVA,SourceMap,Images,Manifest,SWF,XML" collectionTime="1501728938342" />
+      <project id="emsdyxt" values="UNKNOWN,JavaScript,JSP,Properties,XML,HTML,PLAIN_TEXT,Manifest,ARCHIVE,Images,JAVA,CSS,CLASS,IDEA_MODULE" collectionTime="1504082041072" />
+      <project id="ssh-cd-client" values="JAVA,XML,IDEA_MODULE" collectionTime="1496596443068" />
+      <project id="spring-i" values="XML,PLAIN_TEXT,Manifest,CSS,Eclipse,JAVA,IDEA_MODULE,JSP" collectionTime="1503405913077" />
+      <project id="jBPM5-Developer-Guide" values="BPMN_EDITOR,GUI_DESIGNER_FORM,IDEA_MODULE,Properties,Drools,PLAIN_TEXT,ARCHIVE,JAVA,Manifest,XML" collectionTime="1483529111681" />
+      <project id="mybatis" values="JAVA,Properties,SQL,Images,Git file,CSS,IDEA_MODULE,YAML,DTD,Markdown,XML,PLAIN_TEXT" collectionTime="1493205166327" />
+      <project id="douban" values="Manifest,HTML,JavaScript,XML,ARCHIVE,JAVA,Properties,Git file,IDEA_MODULE,CLASS,Markdown,PLAIN_TEXT" collectionTime="1503236562480" />
+      <project id="concurrency" values="IDEA_MODULE,XML,JAVA" collectionTime="1483529230858" />
+      <project id="sicp" values="IDEA_MODULE,ARCHIVE,Clojure" collectionTime="1483962234982" />
+      <project id="djla" values="UNKNOWN,Markdown,FTL,SWF,HTML,JavaScript,Properties,Images,XML,ARCHIVE,Less,CSS,IDEA_MODULE,JAVA,JSON,SourceMap,JSP,PLAIN_TEXT,Native" collectionTime="1504493021141" />
+      <project id="demo-spring" values="XML,ARCHIVE,JAVA,IDEA_MODULE" collectionTime="1470721460234" />
+      <project id="ssh-cd" values="IDEA_MODULE,JAVA,PLAIN_TEXT,XML" collectionTime="1496592978602" />
+      <project id="ssh-cd-server" values="JAVA,XML,IDEA_MODULE" collectionTime="1496806997759" />
+      <project id="jbpm-sim" values="JAVA,IDEA_MODULE,Markdown,XML" collectionTime="1483930445953" />
+      <project id="design-pattern" values="XML,IDEA_MODULE,JAVA" collectionTime="1503473017799" />
+      <project id="copy" values="IDEA_MODULE,JAVA,Properties,XML" collectionTime="1503042458525" />
+      <project id="print" values="Git file,UNKNOWN,Manifest,JAVA,JSP,JavaScript,PLAIN_TEXT,CSS,HTML,IDEA_MODULE,SourceMap,Native,SQL,Markdown,ARCHIVE,Images,Properties,XML" collectionTime="1504487937962" />
+      <project id="dubbo-parent" values="IDEA_MODULE,YAML,Images,JavaScript,JAVA,CSS,PLAIN_TEXT,Markdown,Git file,SPI,UNKNOWN,Properties,VTL,XML" collectionTime="1504449175767" />
+      <project id="jmxtrans-agent" values="Properties,IDEA_MODULE,PLAIN_TEXT,Git file,ARCHIVE,YAML,JavaScript,Markdown,JAVA,XML" collectionTime="1502182158928" />
+      <project id="InterfaceService" values="JAVA,Eclipse,Properties,XML,ARCHIVE,UNKNOWN,CLASS,IDEA_MODULE,PLAIN_TEXT,Manifest,JSP" collectionTime="1502784252506" />
+      <project id="docprovider" values="PLAIN_TEXT,IDEA_MODULE,FTL,JAVA,Eclipse,XML,Properties" collectionTime="1499590838897" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="print" values="MySQL/5.1.53-community-log" collectionTime="1504487937984" />
+    </group>
+    <group name="Spring MVC">
+      <project id="print" values="mvcModelsInProject_0" collectionTime="1504487937985" />
+      <project id="print-monitor" values="mvcModelsInProject_0" collectionTime="1502872040521" />
+      <project id="glaj" values="mvcModelsInProject_0" collectionTime="1504257060029" />
+      <project id="print-system" values="mvcModelsInProject_1,viewResolvers_1,fileset_webXml,viewResolver_UrlBasedViewResolver_.jsp,fileset_webXml" collectionTime="1499497504677" />
+      <project id="dsjyypt" values="mvcModelsInProject_0" collectionTime="1504268071555" />
+      <project id="dubbo-parent" values="mvcModelsInProject_0" collectionTime="1504449175804" />
+      <project id="codeinterview" values="mvcModelsInProject_0" collectionTime="1504494779405" />
+      <project id="serverConnector" values="mvcModelsInProject_0" collectionTime="1504255992761" />
+      <project id="log4j" values="mvcModelsInProject_0" collectionTime="1504055860665" />
+      <project id="bgbapt" values="mvcModelsInProject_0" collectionTime="1501728938354" />
+      <project id="twitter" values="mvcModelsInProject_0" collectionTime="1498741504679" />
+      <project id="djla" values="mvcModelsInProject_0" collectionTime="1504493021148" />
+      <project id="tjspxt" values="mvcModelsInProject_0" collectionTime="1504264994663" />
+      <project id="stagemonitor" values="mvcModelsInProject_0" collectionTime="1501684719758" />
+      <project id="douban" values="mvcModelsInProject_0" collectionTime="1503236562711" />
+      <project id="SvnDeployTool" values="mvcModelsInProject_0" collectionTime="1500796765830" />
+      <project id="emsdyxt" values="mvcModelsInProject_0" collectionTime="1504082041074" />
+      <project id="gs-messaging-stomp-websocket" values="mvcModelsInProject_0" collectionTime="1495033119868" />
+      <project id="spring-i" values="mvcModelsInProject_0" collectionTime="1503405913086" />
+      <project id="InterfaceService" values="mvcModelsInProject_0" collectionTime="1502784252519" />
+      <project id="flashcards" values="mvcModelsInProject_0" collectionTime="1495525972263" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="print" values="com.mysql.jdbc.Driver,com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504487937984" />
+      <project id="print-monitor" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1502872040520" />
+      <project id="glaj" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504257060028" />
+      <project id="jmxtrans-agent" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1502182158931" />
+      <project id="design-pattern" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503473017799" />
+      <project id="dubbo-parent" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504449175797" />
+      <project id="spring-beans" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503406726004" />
+      <project id="codeinterview" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504494779401" />
+      <project id="serverConnector" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504255992755" />
+      <project id="client-proxy" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504246626945" />
+      <project id="log4j" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504055860662" />
+      <project id="bgbapt" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1501728938350" />
+      <project id="jBPM5-Developer-Guide" values="org.h2.Driver,org.h2.Driver,org.h2.Driver,org.h2.Driver" collectionTime="1483529111860" />
+      <project id="djla" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504493021147" />
+      <project id="tjspxt" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504264994662" />
+      <project id="spring" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503579678617" />
+      <project id="stagemonitor" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1501684719754" />
+      <project id="douban" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503236562688" />
+      <project id="logback-parent" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504054407744" />
+      <project id="copy" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503042458526" />
+      <project id="bytecode-transformer" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1502761688107" />
+      <project id="SvnDeployTool" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1500796765830" />
+      <project id="emsdyxt" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504082041072" />
+      <project id="dsjyypt" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504268071546" />
+      <project id="spring-i" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503405913084" />
+      <project id="InterfaceService" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1502784252517" />
+      <project id="basic-techs" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504494774315" />
+      <project id="java-sources" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1503991366711" />
+      <project id="slf4j" values="com.sybase.jdbc4.jdbc.SybDriver" collectionTime="1504246625674" />
+    </group>
+    <group name="spring">
+      <project id="cj-spk" values="fileset_xmlContext,fileset_autodetect_NONE,fileset_configFiles5,xmlNS_www.springframework.org/schema/context" collectionTime="1493710967797" />
+      <project id="codeinterview" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1504494779404" />
+      <project id="twitter" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1498741504679" />
+      <project id="douban" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1503236562704" />
+      <project id="dsjyypt" values="fileset_autodetect_NONE" collectionTime="1504268071549" />
+      <project id="print-system" values="xmlNS_www.springframework.org/schema/context,xmlNS_www.springframework.org/schema/tx,xmlNS_www.springframework.org/schema/websocket,xmlNS_www.springframework.org/schema/mvc,xmlNS_www.springframework.org/schema/context,fileset_configFiles5,xmlNS_www.springframework.org/schema/websocket,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_autodetect_com.intellij.spring.web.config.webXml.XmlServletFileSet,fileset_xmlContext" collectionTime="1499497504383" />
+      <project id="demo-spring" values="fileset_autodetect_NONE,fileset_configFiles5,fileset_xmlContext" collectionTime="1470721460421" />
+      <project id="serverConnector" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1504255992761" />
+      <project id="flashcards" values="fileset_autodetect_com.intellij.spring.boot.model.SpringBootFileSet" collectionTime="1495525972253" />
+      <project id="algorithmbook" values="fileset_autodetect_NONE" collectionTime="1489071507965" />
+    </group>
+    <group name="frameworks">
+      <project id="print" values="web" collectionTime="1504487937879" />
+      <project id="print-monitor" values="web" collectionTime="1502872040460" />
+      <project id="glaj" values="web" collectionTime="1504257059952" />
+      <project id="jBPM5-Developer-Guide" values="jpa" collectionTime="1483529111590" />
+      <project id="dsjyypt" values="Spring,web" collectionTime="1504268071163" />
+      <project id="dubbo-parent" values="web" collectionTime="1504449175698" />
+      <project id="codeinterview" values="Spring" collectionTime="1504494779346" />
+      <project id="print-system" values="Spring,web" collectionTime="1499497504319" />
+      <project id="log4j" values="web,Osmorc" collectionTime="1504055860576" />
+      <project id="bgbapt" values="web" collectionTime="1501728938282" />
+      <project id="algorithmbook" values="Spring" collectionTime="1489071507923" />
+      <project id="twitter" values="Spring,web" collectionTime="1498741504626" />
+      <project id="djla" values="web" collectionTime="1504493021063" />
+      <project id="emsdyxt" values="web" collectionTime="1504082040993" />
+      <project id="douban" values="Spring,web" collectionTime="1503236562356" />
+      <project id="SvnDeployTool" values="web" collectionTime="1500796765764" />
+      <project id="serverConnector" values="Spring" collectionTime="1504255992679" />
+      <project id="InterfaceService" values="web" collectionTime="1502784252460" />
+      <project id="cj-spk" values="Spring" collectionTime="1493710967766" />
+      <project id="demo-spring" values="Spring" collectionTime="1470721460171" />
+      <project id="spring-i" values="web" collectionTime="1503405913021" />
+      <project id="tjspxt" values="web" collectionTime="1504264994588" />
+      <project id="flashcards" values="web,Spring" collectionTime="1495525971911" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="serverConnector" values="Project,Project" collectionTime="1504255992756" />
+      <project id="log4j" values="Project,Project" collectionTime="1504055860662" />
+      <project id="spring" values="Project,Project" collectionTime="1503579678617" />
+      <project id="bytecode-transformer" values="Project,Project" collectionTime="1502761688107" />
+      <project id="logback-parent" values="Project,Project" collectionTime="1504054407744" />
+      <project id="gs-messaging-stomp-websocket" values="Project,Project" collectionTime="1495033119868" />
+      <project id="hadoop-x" values="Project,Project" collectionTime="1479821828690" />
+      <project id="codelee" values="Project,Project" collectionTime="1493474265831" />
+      <project id="basic-techs" values="Project,Project" collectionTime="1504494774315" />
+      <project id="algorithmbook" values="Project,Project" collectionTime="1489071507965" />
+      <project id="iSignaturepdf" values="Project,Project" collectionTime="1497340550063" />
+      <project id="slf4j" values="Project,Project" collectionTime="1504246625674" />
+      <project id="print-monitor" values="Project,Project" collectionTime="1502872040520" />
+      <project id="demoMaven" values="Project,Project" collectionTime="1470481912818" />
+      <project id="client-proxy" values="Project,Project" collectionTime="1504246626945" />
+      <project id="twitter" values="Project,Project" collectionTime="1498741504674" />
+      <project id="docinterface" values="Project,Project" collectionTime="1497457482299" />
+      <project id="dynamic" values="Project,Project" collectionTime="1472390524713" />
+      <project id="glaj" values="Project,Project" collectionTime="1504257060028" />
+      <project id="algorithm4" values="Project,Project" collectionTime="1489109355515" />
+      <project id="flashcards" values="Project,Project" collectionTime="1495525972240" />
+      <project id="print-system" values="Project,Project" collectionTime="1499497504374" />
+      <project id="spring-beans" values="Project,Project" collectionTime="1503406726004" />
+      <project id="SvnDeployTool" values="Project,Project" collectionTime="1500796765830" />
+      <project id="java-sources" values="Project,Project" collectionTime="1503991366711" />
+      <project id="cj-spk" values="Project,Project" collectionTime="1493710967793" />
+      <project id="stagemonitor" values="Project,Project" collectionTime="1501684719754" />
+      <project id="dsjyypt" values="Project,Project" collectionTime="1504268071547" />
+      <project id="tjspxt" values="Project,Project" collectionTime="1504264994662" />
+      <project id="source-code" values="Project,Project" collectionTime="1471270356499" />
+      <project id="signatureAPI" values="Project,Project" collectionTime="1496976474584" />
+      <project id="codeinterview" values="Project,Project" collectionTime="1504494779401" />
+      <project id="bgbapt" values="Project,Project" collectionTime="1501728938351" />
+      <project id="emsdyxt" values="Project,Project" collectionTime="1504082041073" />
+      <project id="ssh-cd-client" values="Project,Project" collectionTime="1496596443070" />
+      <project id="jbpm5-developer-guide" values="Project,Project" collectionTime="1483513738587" />
+      <project id="spring-i" values="Project,Project" collectionTime="1503405913084" />
+      <project id="jBPM5-Developer-Guide" values="Project,Project" collectionTime="1483529111861" />
+      <project id="mybatis" values="Project,Project" collectionTime="1493205166345" />
+      <project id="douban" values="Project,Project" collectionTime="1503236562689" />
+      <project id="concurrency" values="Project,Project" collectionTime="1483529230859" />
+      <project id="sicp" values="Project,Project" collectionTime="1483962234984" />
+      <project id="djla" values="Project,Project" collectionTime="1504493021147" />
+      <project id="demo-spring" values="Project,Project" collectionTime="1470721460421" />
+      <project id="ssh-cd" values="Project,Project" collectionTime="1496592978603" />
+      <project id="ssh-cd-server" values="Project,Project" collectionTime="1496806997949" />
+      <project id="jbpm-sim" values="Project,Project" collectionTime="1483930446132" />
+      <project id="design-pattern" values="Project,Project" collectionTime="1503473017799" />
+      <project id="copy" values="Project,Project" collectionTime="1503042458526" />
+      <project id="print" values="Project,Project" collectionTime="1504487937984" />
+      <project id="dubbo-parent" values="Project,Project" collectionTime="1504449175798" />
+      <project id="jmxtrans-agent" values="Project,Project" collectionTime="1502182158931" />
+      <project id="InterfaceService" values="Project,Project" collectionTime="1502784252517" />
+      <project id="docprovider" values="Project,Project" collectionTime="1499590838922" />
+    </group>
+    <group name="Git">
+      <project id="serverConnector" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1504255992755" />
+      <project id="log4j" values="config.cherry-pick.autocommit.disabled,data.remote.branches.count.15+,config.push.autoupdate.disabled,config.save.policy.STASH,config.force.push.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1504055860662" />
+      <project id="spring" values="config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1,data.remotes.in.project.1,config.ssh.enabled,data.remote.branches.count.8+,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1503579678617" />
+      <project id="bytecode-transformer" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled" collectionTime="1502761688107" />
+      <project id="logback-parent" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,data.remote.branches.count.15+,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1504054407744" />
+      <project id="gs-messaging-stomp-websocket" values="config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1495033119867" />
+      <project id="hadoop-x" values="config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1479821828481" />
+      <project id="codelee" values="config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled" collectionTime="1493474265590" />
+      <project id="basic-techs" values="config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT" collectionTime="1504494774315" />
+      <project id="algorithmbook" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1489071507964" />
+      <project id="iSignaturepdf" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1497340549849" />
+      <project id="slf4j" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.save.policy.STASH,data.local.branches.count.2+,config.ssh.enabled" collectionTime="1504246625673" />
+      <project id="print-monitor" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.local.branches.count.2+,config.save.policy.STASH,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1" collectionTime="1502872040520" />
+      <project id="demoMaven" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1470481912817" />
+      <project id="client-proxy" values="config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1504246626945" />
+      <project id="twitter" values="config.force.push.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1498741504673" />
+      <project id="docinterface" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1497457482079" />
+      <project id="dynamic" values="config.warn.about.detached.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1472390524546" />
+      <project id="glaj" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1504257060028" />
+      <project id="algorithm4" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1489109355333" />
+      <project id="flashcards" values="config.warn.about.detached.enabled,data.remotes.in.project.0,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remote.branches.count.0,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled" collectionTime="1495525972043" />
+      <project id="print-system" values="config.ssh.enabled,data.remotes.in.project.0,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,data.remote.branches.count.0,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1499497504374" />
+      <project id="spring-beans" values="config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1503406726004" />
+      <project id="SvnDeployTool" values="config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1500796765830" />
+      <project id="java-sources" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1503991366711" />
+      <project id="cj-spk" values="config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1493710967791" />
+      <project id="stagemonitor" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.warn.about.detached.enabled,data.local.branches.count.1,config.cherry-pick.autocommit.disabled,data.remote.branches.count.15+,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,data.remotes.in.project.1,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1501684719754" />
+      <project id="dsjyypt" values="config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1504268071370" />
+      <project id="tjspxt" values="config.save.policy.STASH,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1504264994662" />
+      <project id="source-code" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled" collectionTime="1471270356335" />
+      <project id="signatureAPI" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.autoupdate.disabled" collectionTime="1496976474583" />
+      <project id="codeinterview" values="config.push.update.all.roots.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled" collectionTime="1504494779401" />
+      <project id="bgbapt" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled" collectionTime="1501728938350" />
+      <project id="emsdyxt" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1504082041072" />
+      <project id="ssh-cd-client" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1496596443069" />
+      <project id="jbpm5-developer-guide" values="config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1483513738586" />
+      <project id="spring-i" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT" collectionTime="1503405913084" />
+      <project id="jBPM5-Developer-Guide" values="data.remote.branches.count.1,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1483529111716" />
+      <project id="mybatis" values="config.ssh.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.5+,config.push.update.all.roots.enabled,data.local.branches.count.1,config.warn.about.detached.enabled,data.remotes.in.project.1" collectionTime="1493205166328" />
+      <project id="douban" values="config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1503236562511" />
+      <project id="concurrency" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled" collectionTime="1483529230858" />
+      <project id="sicp" values="config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled" collectionTime="1483962234983" />
+      <project id="djla" values="config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1504493021147" />
+      <project id="demo-spring" values="config.warn.about.detached.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1470721460249" />
+      <project id="ssh-cd" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1496592978603" />
+      <project id="ssh-cd-server" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled" collectionTime="1496806997767" />
+      <project id="jbpm-sim" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1483930445960" />
+      <project id="design-pattern" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.force.push.enabled" collectionTime="1503473017799" />
+      <project id="copy" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1503042458526" />
+      <project id="print" values="data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,data.remote.branches.count.5+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled" collectionTime="1504487937984" />
+      <project id="dubbo-parent" values="config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.warn.about.crlf.enabled,data.local.branches.count.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1" collectionTime="1504449175796" />
+      <project id="jmxtrans-agent" values="config.push.autoupdate.disabled,data.local.branches.count.1,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,data.remotes.in.project.1,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remote.branches.count.2+,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1502182158931" />
+      <project id="InterfaceService" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled" collectionTime="1502784252517" />
+      <project id="docprovider" values="config.warn.about.detached.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.ssh.enabled" collectionTime="1499590838920" />
+    </group>
+    <group name="libraries">
+      <project id="serverConnector" values="spring-boot,EJB,WebSocket,spring,spring-mvc,BeanValidation" collectionTime="1504255992754" />
+      <project id="log4j" values="JAX-RS,spring-ws,Scala,groovy,JMS,spring,org.osgi.core,spring-mvc,JsonProcessing,BeanValidation,CDI" collectionTime="1504055860661" />
+      <project id="spring" values="WebSocket,CDI,hibernate,JMS,ConcurrencyUtilsForJavaee,jsf,TransactionJavaee,BeanValidation,EJB,groovy,tiles" collectionTime="1503579678606" />
+      <project id="logback-parent" values="org.osgi.core,groovy,EJB,CDI" collectionTime="1504054407743" />
+      <project id="hadoop-x" values="JAX-RS" collectionTime="1479821828475" />
+      <project id="basic-techs" values="groovy" collectionTime="1504494774314" />
+      <project id="iSignaturepdf" values="jsf" collectionTime="1497340549843" />
+      <project id="demo-spring" values="spring,repository" collectionTime="1470721460249" />
+      <project id="print-monitor" values="hibernate,thymeleaf,spring-data-jpa,spring-mvc,TransactionJavaee,groovy,spring-boot,CDI,EJB,WebSocket,spring,BeanValidation" collectionTime="1502872040519" />
+      <project id="docprovider" values="spring,hibernate,TransactionJavaee" collectionTime="1499590838912" />
+      <project id="twitter" values="EJB,spring-mvc,BeanValidation,spring-boot,spring,WebSocket" collectionTime="1498741504673" />
+      <project id="glaj" values="TransactionJavaee,spring,hibernate,spring-mvc" collectionTime="1504257060028" />
+      <project id="flashcards" values="BeanValidation,spring,WebSocket,spring-mvc,EJB,spring-boot" collectionTime="1495525972035" />
+      <project id="print-system" values="spring-mvc,org.osgi.core,spring,WebSocket" collectionTime="1499497504373" />
+      <project id="spring-beans" values="CDI,EJB" collectionTime="1503406726003" />
+      <project id="SvnDeployTool" values="TransactionJavaee,spring,hibernate,spring-mvc" collectionTime="1500796765829" />
+      <project id="slf4j" values="org.osgi.core" collectionTime="1504246625670" />
+      <project id="stagemonitor" values="EJB,WebSocket,spring-boot,spring,BeanValidation,spring-mvc" collectionTime="1501684719750" />
+      <project id="dsjyypt" values="spring,TransactionJavaee,JAX-WS,hibernate,JMS,spring-mvc" collectionTime="1504268071364" />
+      <project id="tjspxt" values="JMS,spring,TransactionJavaee,JAX-WS,spring-mvc,hibernate" collectionTime="1504264994661" />
+      <project id="cj-spk" values="spring" collectionTime="1493710967791" />
+      <project id="signatureAPI" values="jsf" collectionTime="1496976474582" />
+      <project id="codeinterview" values="thymeleaf,spring,EJB,spring-mvc,spring-boot,WebSocket,BeanValidation" collectionTime="1504494779400" />
+      <project id="bgbapt" values="spring,TransactionJavaee,spring-mvc,hibernate" collectionTime="1501728938343" />
+      <project id="emsdyxt" values="spring,JMS,JAX-WS,hibernate,TransactionJavaee,spring-mvc" collectionTime="1504082041072" />
+      <project id="spring-i" values="spring,spring-mvc" collectionTime="1503405913084" />
+      <project id="jBPM5-Developer-Guide" values="EJB,spring-security,hibernate,JAX-WS,spring,JMS,CDI,JBoss jBPM 5.x,TransactionJavaee,Drools" collectionTime="1483529111709" />
+      <project id="mybatis" values="TransactionJavaee" collectionTime="1493205166327" />
+      <project id="douban" values="WebSocket,spring,thymeleaf,BeanValidation,EJB,spring-mvc,spring-boot" collectionTime="1503236562505" />
+      <project id="sicp" values="Clojure" collectionTime="1483962234983" />
+      <project id="djla" values="spring-mvc,hibernate,spring,TransactionJavaee" collectionTime="1504493021146" />
+      <project id="gs-messaging-stomp-websocket" values="spring,spring-boot,WebSocket,EJB,spring-mvc,BeanValidation" collectionTime="1495033119867" />
+      <project id="print" values="spring-mvc,spring,thymeleaf,jsf,spring-ws,spring-data-jpa,spring-integration,hibernate,WebSocket,spring-boot,EJB,BeanValidation,groovy,TransactionJavaee" collectionTime="1504487937981" />
+      <project id="dubbo-parent" values="spring,groovy,spring-mvc,BeanValidation" collectionTime="1504449175789" />
+      <project id="InterfaceService" values="spring-mvc,hibernate,TransactionJavaee,spring" collectionTime="1502784252517" />
+    </group>
+    <group name="language-level">
+      <project id="serverConnector" values="JDK_1_7" collectionTime="1504255992755" />
+      <project id="log4j" values="JDK_1_8,JDK_1_7" collectionTime="1504055860662" />
+      <project id="spring" values="JDK_1_8,JDK_1_6" collectionTime="1503579678606" />
+      <project id="bytecode-transformer" values="JDK_1_7,JDK_1_5" collectionTime="1502761688107" />
+      <project id="logback-parent" values="JDK_1_6,JDK_1_8" collectionTime="1504054407744" />
+      <project id="gs-messaging-stomp-websocket" values="JDK_1_8" collectionTime="1495033119867" />
+      <project id="hadoop-x" values="JDK_1_7" collectionTime="1479821828480" />
+      <project id="codelee" values="JDK_1_7,JDK_1_5" collectionTime="1493474265589" />
+      <project id="basic-techs" values="JDK_1_7,JDK_1_5" collectionTime="1504494774315" />
+      <project id="algorithmbook" values="JDK_1_8" collectionTime="1489071507964" />
+      <project id="iSignaturepdf" values="JDK_1_8" collectionTime="1497340549848" />
+      <project id="slf4j" values="JDK_1_5,JDK_1_6" collectionTime="1504246625670" />
+      <project id="print-monitor" values="JDK_1_7,JDK_1_8" collectionTime="1502872040520" />
+      <project id="demoMaven" values="JDK_1_7,JDK_1_5" collectionTime="1470481912817" />
+      <project id="client-proxy" values="JDK_1_7" collectionTime="1504246626945" />
+      <project id="twitter" values="JDK_1_8" collectionTime="1498741504673" />
+      <project id="docinterface" values="JDK_1_8,JDK_1_7" collectionTime="1497457482078" />
+      <project id="dynamic" values="JDK_1_5,JDK_1_7" collectionTime="1472390524545" />
+      <project id="glaj" values="JDK_1_6,JDK_1_5" collectionTime="1504257060028" />
+      <project id="algorithm4" values="JDK_1_7,JDK_1_6" collectionTime="1489109355331" />
+      <project id="flashcards" values="JDK_1_7" collectionTime="1495525972041" />
+      <project id="print-system" values="JDK_1_7" collectionTime="1499497504374" />
+      <project id="spring-beans" values="JDK_1_8" collectionTime="1503406726004" />
+      <project id="SvnDeployTool" values="JDK_1_5,JDK_1_8" collectionTime="1500796765830" />
+      <project id="java-sources" values="JDK_1_7,JDK_1_8" collectionTime="1503991366711" />
+      <project id="cj-spk" values="JDK_1_5,JDK_1_7" collectionTime="1493710967791" />
+      <project id="stagemonitor" values="JDK_1_8,JDK_1_6" collectionTime="1501684719750" />
+      <project id="dsjyypt" values="JDK_1_7" collectionTime="1504268071369" />
+      <project id="tjspxt" values="JDK_1_8,JDK_1_7" collectionTime="1504264994662" />
+      <project id="source-code" values="JDK_1_5,JDK_1_7" collectionTime="1471270356334" />
+      <project id="signatureAPI" values="JDK_1_8" collectionTime="1496976474583" />
+      <project id="codeinterview" values="JDK_1_7" collectionTime="1504494779401" />
+      <project id="bgbapt" values="JDK_1_6,JDK_1_8" collectionTime="1501728938349" />
+      <project id="emsdyxt" values="JDK_1_5,JDK_1_7" collectionTime="1504082041072" />
+      <project id="ssh-cd-client" values="JDK_1_8,JDK_1_7" collectionTime="1496596443069" />
+      <project id="jbpm5-developer-guide" values="JDK_1_8" collectionTime="1483513738586" />
+      <project id="spring-i" values="JDK_1_7,JDK_1_6" collectionTime="1503405913084" />
+      <project id="jBPM5-Developer-Guide" values="JDK_1_7,JDK_1_6,JDK_1_5" collectionTime="1483529111713" />
+      <project id="mybatis" values="JDK_1_6,JDK_1_8" collectionTime="1493205166327" />
+      <project id="douban" values="JDK_1_8" collectionTime="1503236562510" />
+      <project id="concurrency" values="JDK_1_7,JDK_1_6" collectionTime="1483529230858" />
+      <project id="sicp" values="JDK_1_7" collectionTime="1483962234983" />
+      <project id="djla" values="JDK_1_7,JDK_1_8" collectionTime="1504493021147" />
+      <project id="demo-spring" values="JDK_1_7" collectionTime="1470721460249" />
+      <project id="ssh-cd" values="JDK_1_7" collectionTime="1496592978603" />
+      <project id="ssh-cd-server" values="JDK_1_7,JDK_1_8" collectionTime="1496806997766" />
+      <project id="jbpm-sim" values="JDK_1_7,JDK_1_5" collectionTime="1483930445959" />
+      <project id="design-pattern" values="JDK_1_7,JDK_1_5" collectionTime="1503473017799" />
+      <project id="copy" values="JDK_1_8,JDK_1_7" collectionTime="1503042458526" />
+      <project id="print" values="JDK_1_7,JDK_1_8" collectionTime="1504487937982" />
+      <project id="dubbo-parent" values="JDK_1_6,JDK_1_8" collectionTime="1504449175794" />
+      <project id="jmxtrans-agent" values="JDK_1_8,JDK_1_5" collectionTime="1502182158928" />
+      <project id="InterfaceService" values="JDK_1_8,JDK_1_6" collectionTime="1502784252517" />
+      <project id="docprovider" values="JDK_1_8" collectionTime="1499590838919" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="147" />
+      <entry feature="CreateFile.CreateSpringConfigAction" count="4" />
+      <entry feature="CreateFile.CreateTaglibFileAction" count="1" />
+      <entry feature="DSM.Analyze" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="20" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="StripeButton[Ant_Build].hidden" count="1" />
+      <entry feature="StripeButton[Event_Log].hidden" count="1" />
+      <entry feature="StripeButton[Find].hidden" count="1" />
+      <entry feature="StripeButton[Notes].hidden" count="1" />
+      <entry feature="StripeButton[UML_Diagrams].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="39" />
+      <entry feature="StripeButton[Version_Control].shown" count="11" />
+      <entry feature="debugger.reload.classes" count="835" />
+      <entry feature="diff.DirDiffTableModel" count="20" />
+      <entry feature="diff.DirDiffViewer" count="20" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Coverage" count="6" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="262" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug with VisualVM" count="5" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Debug" count="747" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.JRebel Executor" count="47" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="420" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="187" />
+      <entry feature="execute.Application.Debug with VisualVM" count="30" />
+      <entry feature="execute.Application.JRebel Debug" count="4" />
+      <entry feature="execute.Application.Run" count="2537" />
+      <entry feature="execute.Application.Run with VisualVM" count="41" />
+      <entry feature="execute.ClojureScriptRunConfiguration.Debug" count="11" />
+      <entry feature="execute.ClojureScriptRunConfiguration.Run" count="113" />
+      <entry feature="execute.GroovyScriptRunConfiguration.Run" count="4" />
+      <entry feature="execute.JUnit.Coverage" count="3" />
+      <entry feature="execute.JUnit.Debug" count="283" />
+      <entry feature="execute.JUnit.JRebel Debug" count="27" />
+      <entry feature="execute.JUnit.JRebel Executor" count="5" />
+      <entry feature="execute.JUnit.Run" count="3462" />
+      <entry feature="execute.MavenRunConfiguration.Debug" count="1" />
+      <entry feature="execute.MavenRunConfiguration.Run" count="31" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Debug" count="62" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Debug" count="151" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.JRebel Executor" count="2" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run" count="604" />
+      <entry feature="execute.SpringBootApplicationConfigurationType.Run with VisualVM" count="1" />
+      <entry feature="execute.TestNG.Run" count="11" />
+      <entry feature="execute.TomeeConfiguration.Debug" count="1" />
+      <entry feature="execute.TomeeConfiguration.Run" count="1" />
+      <entry feature="execute.jmh-id.Debug" count="3" />
+      <entry feature="execute.jmh-id.Run" count="15" />
+      <entry feature="git.branch.checkout.remote" count="1" />
+      <entry feature="git.branch.create.new" count="2" />
+      <entry feature="ide.help.Project_Category_and_Options" count="1" />
+      <entry feature="ide.help.ant.antToolWindow" count="2" />
+      <entry feature="ide.help.ideaInterface.editor" count="5" />
+      <entry feature="ide.help.procedures.navigating.goto.class" count="1" />
+      <entry feature="ide.help.refactoring.renameFile" count="1" />
+      <entry feature="ide.help.reference.dialogs.breakpoints" count="2" />
+      <entry feature="ide.help.reference.dialogs.findinpath" count="2" />
+      <entry feature="ide.help.reference.dialogs.vcs.commit" count="1" />
+      <entry feature="ide.help.top" count="2" />
+      <entry feature="ide.settings.Advanced" count="2" />
+      <entry feature="ide.settings.Annotation_Processors" count="1" />
+      <entry feature="ide.settings.Appearance" count="10" />
+      <entry feature="ide.settings.Application&#10;Servers" count="1" />
+      <entry feature="ide.settings.Auto_Import" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="1" />
+      <entry feature="ide.settings.Console" count="1" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.Customize_Threads_View" count="1" />
+      <entry feature="ide.settings.File_Encodings" count="58" />
+      <entry feature="ide.settings.Font" count="34" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.Groovy_Compiler" count="1" />
+      <entry feature="ide.settings.HTML" count="1" />
+      <entry feature="ide.settings.HTTP_Proxy" count="9" />
+      <entry feature="ide.settings.Ignored_Files" count="6" />
+      <entry feature="ide.settings.JRebel" count="1" />
+      <entry feature="ide.settings.JavaScript" count="1" />
+      <entry feature="ide.settings.Java_Compiler" count="14" />
+      <entry feature="ide.settings.Keymap" count="21" />
+      <entry feature="ide.settings.Maven" count="5" />
+      <entry feature="ide.settings.Plugins" count="18" />
+      <entry feature="ide.settings.Project_Structure" count="9" />
+      <entry feature="ide.settings.Repositories" count="1" />
+      <entry feature="ide.settings.Runner" count="1" />
+      <entry feature="ide.settings.SexyEditor" count="3" />
+      <entry feature="ide.settings.TomEE_Server" count="1" />
+      <entry feature="ide.settings.Tomcat_Server" count="1" />
+      <entry feature="ide.settings.VisualVM_Launcher" count="3" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="647" />
+      <entry feature="project.view.pane.PackagesPane" count="3" />
+      <entry feature="project.view.pane.ProjectPane" count="3" />
+      <entry feature="project.view.pane.Scope.Project Files" count="1" />
+      <entry feature="scala.file.script.parsed" count="859" />
+      <entry feature="show.recent.tests.action" count="1" />
+      <entry feature="spring.MVCRelatedFilesProvider.fromCode" count="1" />
+      <entry feature="spring.ParseCustomBeanIntention" count="2" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="406" />
+      <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="5910" />
+      <entry feature="spring.SpringFacetInspection.AddFacetFix" count="3" />
+      <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="3" />
+      <entry feature="terminal.win" count="73" />
+      <entry feature="tips.of.the.day.next" count="3" />
+      <entry feature="uml.ShowDiagram.DIFF.popup" count="2" />
+      <entry feature="uml.ShowDiagram.JAVA" count="35" />
+      <entry feature="uml.ShowDiagram.JAVA.popup" count="3" />
+      <entry feature="uml.ShowDiagram.JavaScript-modules-diagram" count="3" />
+      <entry feature="uml.ShowDiagram.MAVEN" count="9" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels" count="3" />
+      <entry feature="uml.ShowDiagram.SpringLocalModels.popup" count="1" />
+      <entry feature="vcs.log.CreatePatch..." count="1" />
+      <entry feature="vcs.log.HighlightNon-PickedCommits" count="2" />
+      <entry feature="vcs.log.Refresh" count="1" />
+      <entry feature="vcs.log.ShowDiff" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+</application>

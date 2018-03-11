@@ -1,0 +1,91 @@
+<idea-plugin version="2">
+  <id>org.jetbrains.memory.view</id>
+  <name>JVM Debugger Memory View</name>
+  <version>0.93.145</version>
+  <vendor url="https://www.jetbrains.com">JetBrains</vendor>
+  <description>
+      &lt;p&gt;This plugin extends the built-in JVM debugger with capabilities to explore objects
+      in the JVM heap during a debug session.&lt;/p&gt;
+
+      &lt;p&gt;The Memory View shows you the total number of objects in the heap grouped by their class name.&lt;/p&gt;
+
+      &lt;p&gt;When you're stepping over the code, the Diff column shows how the number of objects
+      changes between debugger stops. This way you can easily see how the code you're
+      stepping over affects the heap.&lt;/p&gt;
+
+      &lt;p&gt;A double click on a class name, opens a dialog with instances of this class.
+      The dialog lets you filter instances by an evaluated expression.
+      All debugger operations such as Inspect, Mark Object, Evaluate Expression,
+      Add to Watches, etc can be applied to instances in this dialog.&lt;/p&gt;
+
+      &lt;p&gt;WARNING: version for Android Studio contains few restrictions:
+        &lt;ul&gt;
+            &lt;li&gt; Getting a large number of instances may fail and stop VM due to Android memory limitations. &lt;/li&gt;
+            &lt;li&gt; Android Studio may freeze, see
+                &lt;a href="https://code.google.com/p/android/issues/detail?id=198940&amp;q=subcomponent%3DTools-debugger%20label%3ASubcomponent-Tools-debugger&amp;colspec=ID%20Status%20Priority%20Owner%20Summary%20Stars%20Reporter%20Opened"&gt;this bug&lt;/a&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/p&gt;
+    </description>
+  <change-notes>
+        0.93 &lt;br&gt;
+        &lt;ul&gt;
+            &lt;li&gt; Add ability to see only classes marked as tracked in the classes tool window &lt;/li&gt;
+            &lt;li&gt; Fix minor bugs &lt;/li&gt;
+        &lt;/ul&gt;
+
+        0.92 &lt;br&gt;
+        &lt;ul&gt;
+            &lt;li&gt; Added ability to track new instances (concrete instances in 'Diff' column) &lt;/li&gt;
+            &lt;li&gt; Added ability to see allocation position for new tracked objects &lt;/li&gt;
+            &lt;li&gt; Few minor improvements and bug fixes &lt;/li&gt;
+        &lt;/ul&gt;
+
+        0.91 &lt;br&gt;
+        &lt;ul&gt;
+            &lt;li&gt; New icons &lt;/li&gt;
+            &lt;li&gt; Fixed empty text in classes view when filtering is matching nothing &lt;/li&gt;
+            &lt;li&gt; New filtering in classes view (supports regex) &lt;/li&gt;
+            &lt;li&gt; Added highlighting of filtering matches in classes view &lt;/li&gt;
+            &lt;li&gt; Added ability to select an item with arrow keys when writing filtering expression &lt;/li&gt;
+            &lt;li&gt; Added beta version for Android Studio 2.2 &lt;/li&gt;
+        &lt;/ul&gt;
+    
+    </change-notes>
+  <idea-version since-build="145" until-build="145.*"/>
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow id="Memory View" anchor="right" icon="MemoryViewIcons.MAIN_DISABLED" factoryClass="org.jetbrains.debugger.memory.toolwindow.MemoryViewToolWindowFactory" conditionClass="org.jetbrains.debugger.memory.toolwindow.MemoryViewToolWindowFactory$Condition"/>
+  </extensions>
+  <application-components>
+    <component>
+      <implementation-class>org.jetbrains.debugger.memory.component.MemoryViewManager</implementation-class>
+    </component>
+  </application-components>
+  <project-components>
+    <component>
+      <implementation-class>org.jetbrains.debugger.memory.component.InstancesTracker</implementation-class>
+    </component>
+    <component>
+      <implementation-class>org.jetbrains.debugger.memory.component.CreationPositionTracker</implementation-class>
+    </component>
+  </project-components>
+  <actions>
+    <action class="org.jetbrains.debugger.memory.action.ShowInstancesByClassAction" id="MemoryView.ShowInstancesFromDebuggerTree" text="Show Instances">
+      <add-to-group group-id="XDebugger.ValueGroup" anchor="after" relative-to-action="Debugger.ShowReferring"/>
+    </action>
+    <action class="org.jetbrains.debugger.memory.action.tracking.JumpToAllocationSourceAction" id="MemoryView.ShowAllocationStackTrace" text="Jump To Allocation Position">
+      <add-to-group group-id="XDebugger.ValueGroup" anchor="after" relative-to-action="XDebugger.JumpToTypeSource"/>
+    </action>
+    <action class="org.jetbrains.debugger.memory.action.ShowClassesWithInstanceAction" id="MemoryView.ShowOnlyWithInstances" text="Show With Instances Only"/>
+    <action class="org.jetbrains.debugger.memory.action.ShowClassesWithDiffAction" id="MemoryView.ShowOnlyWithDiff" text="Show Non-Zero Diff Only"/>
+    <action class="org.jetbrains.debugger.memory.action.ShowTrackedAction" id="MemoryView.ShowOnlyTracked" text="Show Tracked Classes Only"/>
+    <action class="org.jetbrains.debugger.memory.action.EnableBackgroundTrackingAction" id="MemoryView.EnableTrackingWithClosedWindow" text="Enable Tracking With Hidden Memory View"/>
+    <group id="ClassesView.PopupActionGroup">
+      <action class="org.jetbrains.debugger.memory.action.ShowInstancesFromClassesViewAction" id="ClassesView.ShowInstances" text="Show Instances"/>
+      <action class="org.jetbrains.debugger.memory.action.ShowNewInstancesAction" id="ClassesView.ShowNewInstances" text="Show New Instances"/>
+      <action class="org.jetbrains.debugger.memory.action.JumpToTypeSourceAction" id="ClassesView.JumpToTypeSource" text="Jump To Type Source"/>
+      <separator/>
+      <action class="org.jetbrains.debugger.memory.action.tracking.TrackInstancesToggleAction" id="ClassesView.TrackingAction.NewInstancesTracking" text="Track New Instances"/>
+    </group>
+  </actions>
+</idea-plugin>

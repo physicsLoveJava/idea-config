@@ -1,0 +1,105 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.1.4-release-IJ2017.2-2" />
+    <property name="android-component-compatibility-check" value="1520574248039" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="file.chooser.recent.files" value="E:/codes/java/idea/university-recommendation&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/jedis&#10;E:/codes/frameworks/java/jedis&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/pool2&#10;E:/codes/java/idea-tify/log-analysis&#10;C:/Users/LuJian/Desktop&#10;E:/codes/java/idea-tify&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/mybatis&#10;E:/codes/java/idea-tify/tjspxt--my&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/tomcat&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/dbcp2&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/vfs2&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/proxy&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/transaction&#10;E:/codes/java/idea/basic-techs/tech-apache/apache-lang/src/main/resources/apache/validator&#10;C:/Users/LuJian/Desktop/bgbapt2-8081&#10;E:/codes/java/idea/basic-techs/casual-things/src/main/resources/framework-uml/java-sources/collections&#10;E:/codes/source code from github/cachecloud&#10;E:/codes/java/idea/basic-techs/casual-things&#10;C:/DevDep/visualvm_14/visualvm_14/bin/visualvm.exe&#10;C:/Program Files/Java/jdk1.8.0_101/bin/jvisualvm.exe&#10;C:/Program Files/Java/jdk1.7.0_21/bin/jvisualvm.exe&#10;E:/codes/java/idea/basic-techs/casual-things/src/main/resources/framework-uml/java-sources/servlet&#10;C:/Users/LuJian/Desktop/bgbapt2&#10;E:/codes/java/idea/basic-techs/distributed/single-sign-on/sso-server-5/target&#10;E:/codes/java/idea/basic-techs/distributed/single-sign-on/sso-server-5/src/main/webapp&#10;E:/codes/java/idea/basic-techs/distributed/single-sign-on/spring-transaction/pom.xml&#10;E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-server/pom.xml&#10;E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-client/pom.xml&#10;E:/codes/java/idea/basic-techs/distributed/zuul/zuul-eureka-client" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.7 (1)" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="lastTip" value="48" />
+    <property name="PLUGIN_FILTER" value="vue&#10;data&#10;scratch&#10;uml&#10;trace" />
+    <property name="fileTypeChangedCounter" value="44" />
+    <property name="KEYMAP" value="add file&#10;commit&#10;build arti&#10;duplicate&#10;cursor" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="sm_test_statistics_table_columnsWidth0" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder0" value="0" />
+    <property name="sm_test_statistics_table_columnsWidth1" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder1" value="1" />
+    <property name="sm_test_statistics_table_columnsWidth2" value="75" />
+    <property name="sm_test_statistics_table_columnsOrder2" value="2" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="java.module.default.source.root" value="src" />
+    <property name="cursive.eap.updates.asked" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="SpringBeansModulesPanel[0]" value="0.11074197" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="last.imported.location" value="E:/codes/source code from github/spring-framework" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="SplitFileEditor.Proportion" value="0.64718616" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="selected.color.option.type" value="TABLE_ROW" />
+    <property name="ColorChooser.RecentColors" value="6-107-21-255,,,107-29-34-255,,,250-242-250-255" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="spring.initializr.service.url.history" value="" />
+    <property name="spring.initializr.service.url.last" value="https://start.spring.io" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.11098779" />
+    <property name="JUnit.Splitter.Proportion" value="0.16823465" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.9072165" />
+    <property name="SpringMvcModulesPanel[0]" value="0.11098779" />
+    <property name="kotlin.lastUpdateCheck" value="1498741772439" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="gradle.runner.text.console_str" value="true" />
+    <property name="gradle.runner.text.console" value="true" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.43019944" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="file.gist.reindex.count" value="300201" />
+    <property name="ts.lib.d.ts.version" value="2.4.1" />
+    <property name="TEMPLATES_FILTER_HISTORY" value="java&#10;idea" />
+    <property name="LiveContextsPanel[0]" value="0.06583428" />
+    <property name="js.modules.notification.shown" value="true" />
+    <property name="PluginCopyPasteStack.SplitPaneDividerLocation" value="211" />
+    <property name="LiveContextsPanel[1]" value="0.5515695" />
+    <property name="LiveContextsPanel[2]" value="0.14716704" />
+    <property name="RunConfigurable.dividerProportion" value="0.20099875" />
+    <property name="SpringBeansModulesPanel[1]" value="0.124610595" />
+    <property name="SpringMvcModulesPanel[1]" value="0.124610595" />
+    <property name="SpringMvcModulesPanel[2]" value="0.14245014" />
+    <property name="Darcula.savedEditorTheme" value="Darcula copy" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="dir.diff.panel.divider.location" value="93" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.5902669" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.11074197" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="SpringBeansModulesPanel[2]" value="0.14245014" />
+    <property name="MavenHelper.lastRadioButton" value="tree" />
+    <property name="fieldPrivateMode" value="true" />
+    <property name="useSerializedName" value="false" />
+    <property name="objectFromData" value="false" />
+    <property name="objectFromData1" value="false" />
+    <property name="arrayFromData" value="false" />
+    <property name="arrayFromData1" value="false" />
+    <property name="objectFromDataStr" value="    public  static $ClassName$ objectFromData(String str){&#10;&#10;        return new com.google.gson.Gson().fromJson(str,$ClassName$.class);&#10;    }" />
+    <property name="objectFromDataStr1" value="    public  static $ClassName$ objectFromData(String str, String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),$ClassName$.class);&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return null;&#10;    }" />
+    <property name="arrayFromData1Str" value="    public  static java.util.List&lt;$ClassName$&gt; array$ClassName$FromData(String str,String key){&#10;&#10;        try {&#10;            org.json.JSONObject jsonObject=new org.json.JSONObject(str);&#10;            java.lang.reflect.Type listType=new com.google.gson.reflect.TypeToken&lt;java.util.ArrayList&lt;$ClassName$&gt;&gt;(){}.getType();&#10;&#10;            return new com.google.gson.Gson().fromJson(jsonObject.getString(str),listType);&#10;&#10;        } catch (org.json.JSONException e) {&#10;            e.printStackTrace();&#10;        }&#10;&#10;        return new java.util.ArrayList();&#10;&#10;&#10;    }" />
+    <property name="suffixStr" value="Bean" />
+    <property name="reuseEntity" value="false" />
+    <property name="virgoMode" value="true" />
+    <property name="filedNamePreFixStr" value="null" />
+    <property name="annotationStr" value="@com.google.gson.annotations.SerializedName\s*\(\s*&quot;{filed}&quot;\s*\)" />
+    <property name="errorCount" value="1" />
+    <property name="entityPackName" value="com.lujian.log.analysis.data.vo." />
+    <property name="useFieldNamePrefix" value="false" />
+    <property name="generateComments" value="true" />
+    <property name="splitGenerate" value="false" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.32344633" />
+    <property name="Vcs.Log.Text.Filter.History" value="@leetcode" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Sybase (Native) - JUDGE@130.1.1.92" uuid="05d118dd-344b-4a10-8def-d10940bc9053">
+      <driver-ref>sybase.ase</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.sybase.jdbc4.jdbc.SybDriver</jdbc-driver>
+      <jdbc-url>jdbc:sybase:Tds:130.1.1.92:5000/JUDGE?charset=cp936</jdbc-url>
+    </data-source>
+  </component>
+</application>

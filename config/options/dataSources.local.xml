@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorageLocal">
+    <data-source name="Sybase (Native) - JUDGE@130.1.1.92" uuid="05d118dd-344b-4a10-8def-d10940bc9053">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>fymis</user-name>
+      <introspection-schemas>FYRS:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|FYRS_BACKUP:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|JUDGE:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|SFTJ:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|master:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|model:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|sybsystemdb:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|sybsystemprocs:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role|tempdb:dbo,dtm_tm_role,ha_role,jsgy_manager,navigator_role,oper_role,public,replication_role,sa_role,sso_role,sybase_ts_role</introspection-schemas>
+    </data-source>
+  </component>
+</application>

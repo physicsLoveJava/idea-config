@@ -1,0 +1,6 @@
+IdeaVIM
+Leiningen
+Subversion
+com.cursiveclojure.cursive
+com.jedide.apex
+com.vladsch.idea.multimarkdown
